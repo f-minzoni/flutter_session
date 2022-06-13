@@ -1,0 +1,20 @@
+name: flutter_session
+description: Adds session support to Flutter. Works with mobile, web and (hopefully) desktop builds.
+author: gfrare@gmail.com>
+version: 0.1.2
+homepage: https://github.com/gfrare/flutter_session
+
+environment:
+  sdk: ">=2.16.2 <3.0.0"
+  flutter: ">=1.10.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  shared_preferences: ^2.0.15
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+flutter:
