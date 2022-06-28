@@ -5,7 +5,7 @@ version: 0.1.2
 homepage: https://github.com/gfrare/flutter_session
 
 environment:
-  sdk: ">=2.16.2 <3.0.0"
+  sdk: ">=2.14.2 <3.0.0"
   flutter: ">=1.10.0"
 
 dependencies:
